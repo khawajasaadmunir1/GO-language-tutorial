@@ -1,5 +1,5 @@
 # GO-language-tutorial
 Introductory tutorial on GO (programming language):
--Basics
--Go routines
--Channels & synchronization of Go routines.
+1)Basics
+2)Go routines
+3)Channels & synchronization of Go routines.
